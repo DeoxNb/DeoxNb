@@ -5,4 +5,4 @@
 * 🔭 Actualmente trabajando en **TimeFlow** (App de gestión de turnos).
 * 🌱 Profundizando en **Python**, **Laravel** y seguridad en contenedores **Docker**.
 * 💼 Buscando mi primera oportunidad como Junior Developer o soporte IT.
-* 📫 Contáctame en: [Tu LinkedIn/Email]
+* 📫 Contáctame en: https://www.linkedin.com/in/diego-alfredo-naar-buelvas-960219216/
