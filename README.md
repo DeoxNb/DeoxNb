@@ -21,3 +21,8 @@
 **Game Dev:** <br>
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+
+### 🚀 Proyectos Destacados
+* **[Running Island](URL_DE_TU_REPO):** Videojuego 2D de supervivencia top-down. Desarrollado en **Unity 6** (C#, URP, Tilemaps) con telemetría conectada a Firebase mediante Python. *(Proyecto de Fin de Grado)*.
+* **[TimeFlow](URL_DE_TU_REPO):** Aplicación multiplataforma para automatización y gestión de turnos laborales. Arquitectura REST API con **Laravel Sanctum**, PostgreSQL y frontend en **Flutter**.
