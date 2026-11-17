@@ -35,6 +35,10 @@
 ## 🚀 Proyectos Destacados
 
 - **[devsecops-ai-auditor](https://github.com/DeoxNb/devsecops-ai-auditor):** Auditor de ciberseguridad asistido por IA y pipeline RAG. Desarrollado en Python con LangGraph, integración de modelos locales/OpenAI, PostgreSQL (`pgvector`), Docker Compose y una interfaz gráfica en CustomTkinter.
+- **[linux-health-notifier](https://github.com/DeoxNb/linux-health-notifier):** Sistema de automatización en Bash puro para la monitorización de recursos críticos de servidores Linux (disco y RAM), con integración nativa en `cron` y alertas push mediante Webhooks.
+- **[Running-Island-Escape](https://github.com/DeoxNb/Running-Island-Escape):** Videojuego 2D de acción y supervivencia *top-down* creado en **Unity 6** (C#, URP, Tilemaps). Cuenta con persistencia conectada a Firebase Realtime Database y un panel de telemetría auxiliar programado en Python.
+- **[TimeFlow](https://github.com/DeoxNb/TimeFlow):** API REST y sistema completo de gestión de turnos laborales y recursos humanos. Desarrollado con **Laravel 11**, autenticación Sanctum, base de datos PostgreSQL y despliegue contenedorizado con Docker.
+- **EsconditeExtremo:** Proyecto lúdico y de experimentación en desarrollo de videojuegos con mecánicas de físicas, mapas y lógica en C#.
 - **[Running-Island-Escape](https://github.com/DeoxNb/Running-Island-Escape):** Videojuego 2D de acción y supervivencia *top-down* creado en **Unity 6** (C#, URP, Tilemaps). Cuenta con persistencia conectada a Firebase Realtime Database y un panel de telemetría auxiliar programado en Python.
 - **[TimeFlow](https://github.com/DeoxNb/TimeFlow):** API REST y sistema completo de gestión de turnos laborales y recursos humanos. Desarrollado con **Laravel 11**, autenticación Sanctum, base de datos PostgreSQL y despliegue contenedorizado con Docker.
 - **EsconditeExtremo:** Proyecto lúdico y de experimentación en desarrollo de videojuegos con mecánicas de físicas, mapas y lógica en C#.
