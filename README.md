@@ -1,31 +1,32 @@
 # Diego Alfredo Naar Buelvas 👋
 ### Junior DevSecOps & AI Infrastructure Engineer
 
-Apasionado por la seguridad del software, la orquestación en contenedores y los flujos locales de IA. Especializado en conectar desarrollo multiplataforma con infraestructuras Linux robustas y seguras.
+Desarrollador enfocado en **seguridad en el ciclo de vida del software (DevSecOps)**, **administración y automatización en Linux**, e **integración de pipelines locales de IA**. Formación técnica en sistemas (ASIR) y desarrollo multiplataforma (DAM).
 
-- 🔭 **Proyecto Principal:** `devsecops-ai-auditor` — Auditoría automatizada de pipelines locales y mitigación de fugas de datos.
-- ⚙️ **Stack Clave:** Docker, Linux (Ubuntu/Bash), Python, PostgreSQL (pgvector), Laravel.
+- 🔭 **Proyecto Principal:** `devsecops-ai-auditor` — Auditoría local y sanitización de datos (PII / prompt injections) mediante modelos locales y bases vectoriales.
+- 🎯 **Enfoque actual:** Certificación / Especialización en Redes y Seguridad (Cisco Networking Academy).
+- ⚙️ **Stack Clave:** Docker, Linux (Ubuntu / Bash), Python, PostgreSQL (pgvector), Git.
 - 📬 **LinkedIn:** [diego-alfredo-naar-buelvas](https://www.linkedin.com/in/diego-alfredo-naar-buelvas-960219216/) | Madrid, España
 
 ---
 
-### 🛡️ Proyecto Estrella: DevSecOps AI Auditor
+### 🛡️ Proyecto Destacado: DevSecOps AI Auditor
 > **[Repositorio devsecops-ai-auditor](https://github.com/DeoxNb/devsecops-ai-auditor)**  
-Pipeline de auditoría y mitigación de riesgos para entornos de IA. Desarrollado en **Python** con **LangGraph** y almacenamiento vectorial en **PostgreSQL (pgvector)**, orquestado en contenedores **Docker** y con interfaz visual en **CustomTkinter**.
-- **Problema resuelto:** Detección de inyecciones de prompts maliciosos y sanitización de información confidencial (PII) previa a la inferencia.
+Pipeline de auditoría y análisis de seguridad para aplicaciones basadas en IA. Implementado en **Python** con **LangGraph** y base de datos vectorial en **PostgreSQL (pgvector)**, orquestado con **Docker Compose** e interfaz visual en **CustomTkinter**.
+- **Objetivo:** Detección de inyecciones de prompts maliciosos y sanitización preventiva de datos sensibles (PII) antes del envío al LLM.
 
 ---
 
-### 🛠️ Competencias Técnicas
+### 🛠️ Stack Tecnológico
 
-- **Seguridad e Infraestructura:** Docker & Docker Compose, Linux Hardening, Bash Scripting, Control de Accesos, AWS (EC2/RDS básico).
-- **Backend & Datos:** Python (LangGraph, Pandas), PHP (Laravel 11, Sanctum), PostgreSQL, MySQL.
-- **Flujos y Metodología:** Git, CI/CD foundations, APIs RESTful, arquitectura limpia.
+- **Seguridad e Infraestructura:** Docker & Docker Compose, Linux (WSL2 / Ubuntu), Bash Scripting, Hardening básico, Redes (Cisco foundations).
+- **Backend & Scripting:** Python (LangGraph, Pandas, Matplotlib), SQL (PostgreSQL, MySQL), PHP / REST APIs.
+- **Game Dev & Telemetría:** C# (Unity 6), integración de bases de datos y análisis de métricas.
 
 ---
 
-### 📁 Otros Proyectos
+### 📁 Repositorios
 
-* **[JJ Autocar Leganés / TimeFlow](https://github.com/DeoxNb)**: Backend y API REST para gestión operativa y control de turnos en Laravel 11, autenticación segura con Sanctum, PostgreSQL y despliegue autocontenido en Docker.
-* **linux-health-notifier**: Automatización en Bash para supervisión y monitorización continua de métricas críticas (RAM, almacenamiento) con alertas vía Webhooks y tareas `cron`.
-* **Running Island Escape**: Videojuego de supervivencia en Unity 6 (C#) con panel analítico externo en Python y procesamiento de telemetría de juego.
+* **[linux-health-notifier](https://github.com/DeoxNb/linux-health-notifier)**: Scripting en Bash para monitorización proactiva de recursos críticos del sistema (RAM, disco, CPU) con programación en `cron` y alertas instantáneas vía Webhooks.
+* **[Running-Island-Escape](https://github.com/DeoxNb/Running-Island-Escape)**: Videojuego 2D de acción y supervivencia desarrollado en Unity 6 (C#), complementado con pipeline analítico en Python para telemetría de eventos de partida.
+* **[EsconditeExtremo](https://github.com/DeoxNb/EsconditeExtremo)**: Entorno interactivo y experimentación de mecánicas de sigilo, detección y física en Unity (C#).
